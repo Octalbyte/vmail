@@ -1,4 +1,4 @@
-// Creator: nedimf (07/2020)
+
 import os
 import net.smtp
 

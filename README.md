@@ -1,1 +1,3 @@
-"# vmail" 
+# vmail
+lightweight smtp client
+
